@@ -1,0 +1,6 @@
+usr/local/bin/bitglo-qt usr/bin
+share/pixmaps/bitglo32.xpm usr/share/pixmaps
+share/pixmaps/bitglo16.xpm usr/share/pixmaps
+share/pixmaps/bitglo128.png usr/share/pixmaps
+debian/bitglo-qt.desktop usr/share/applications
+debian/bitglo-qt.protocol usr/share/kde4/services/
